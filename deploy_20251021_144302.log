@@ -1,0 +1,8 @@
+[2025-10-21 14:43:39] \033[0;32mSUCCESS\033[0m: Git operations completed successfully
+[2025-10-21 14:43:39] \033[0;34mINFO\033[0m: Verifying project structure...
+[2025-10-21 14:43:39] \033[0;32mSUCCESS\033[0m: Dockerfile found
+[2025-10-21 14:43:39] \033[0;32mSUCCESS\033[0m: docker-compose.yml found
+[2025-10-21 14:43:39] \033[0;32mSUCCESS\033[0m: Project structure verified
+[2025-10-21 14:43:39] \033[0;34mINFO\033[0m: Preparing remote environment...
+[2025-10-21 14:43:39] \033[0;34mINFO\033[0m: Updating package lists
+[2025-10-21 14:43:45] \033[0;31mERROR\033[0m: Updating package lists failed

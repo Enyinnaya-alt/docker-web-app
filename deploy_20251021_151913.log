@@ -1,0 +1,10 @@
+[2025-10-21 15:19:13] \033[0;34mINFO\033[0m: Starting deployment process...
+[2025-10-21 15:19:13] \033[0;34mINFO\033[0m: Log file: deploy_20251021_151913.log
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Configuration:
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Repository: https://github.com/Enyinnaya-alt/docker-web-app.git
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Branch: main
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Server: ubuntu@18.188.50.6
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Project: docker-web-app
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Port: 3000
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Starting Git operations...
+[2025-10-21 15:20:35] \033[0;34mINFO\033[0m: Cloning repository...

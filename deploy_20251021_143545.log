@@ -1,0 +1,9 @@
+[2025-10-21 14:35:45] \033[0;34mINFO\033[0m: Starting deployment process...
+[2025-10-21 14:35:45] \033[0;34mINFO\033[0m: Log file: deploy_20251021_143545.log
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Configuration:
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Repository: 
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Branch: main
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Server: @
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Project: 
+[2025-10-21 14:35:49] \033[0;34mINFO\033[0m: Port: 
+[2025-10-21 14:35:49] \033[0;31mERROR\033[0m: Git repository URL is required
