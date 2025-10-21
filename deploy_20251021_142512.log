@@ -1,0 +1,9 @@
+[2025-10-21 14:25:12] \033[0;34mINFO\033[0m: Starting deployment process...
+[2025-10-21 14:25:12] \033[0;34mINFO\033[0m: Log file: deploy_20251021_142512.log
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Configuration:
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Repository: https://github.com/Enyinnaya-alt/docker-web-app.git
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Branch: main
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Server: ec2-user@3.138.151.10
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Project: docker-web-app
+[2025-10-21 14:27:56] \033[0;34mINFO\033[0m: Port: 3000
+[2025-10-21 14:27:56] \033[0;31mERROR\033[0m: SSH key file not found: ~/.ssh/docker-apps.pem
